@@ -114,7 +114,7 @@ body {
   }
   
   h1 {
-	background: linear-gradient(to left, black, rgb(20, 16, 16), rgb(2, 23, 48), rgb(1, 1, 2));
+	background: linear-gradient(to left, black, rgb(17, 49, 85), rgb(2, 23, 48), rgb(1, 1, 2));
 	background-clip: text;
 	display: inline;
 	color: transparent;
@@ -152,4 +152,8 @@ body {
   
   #search-form input[type=submit]:hover {
 	background-color: #17263f;
+  }
+
+  .clickarea{
+	background: #17263f;
   }
